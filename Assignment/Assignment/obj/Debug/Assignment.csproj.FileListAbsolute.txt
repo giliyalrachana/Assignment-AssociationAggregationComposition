@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\Assignment-AssociationAggregationComposition\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\Assignment-AssociationAggregationComposition\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\Assignment-AssociationAggregationComposition\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\Assignment-AssociationAggregationComposition\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\Assignment-AssociationAggregationComposition\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\Assignment-AssociationAggregationComposition\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\Assignment-AssociationAggregationComposition\Assignment\Assignment\obj\Debug\Assignment.pdb
